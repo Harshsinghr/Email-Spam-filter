@@ -32,3 +32,34 @@ Here is a list of email spam filters:
 * Adversarial Classification
 
 For the last but not least classifier, which is "Adversarial Classifier", is an approach to update NB based e-mail spam ﬁlters in response to attacks that try to evade a basic NB ﬁlter. It is inspired from [paper](https://dl.acm.org/doi/10.1145/1014052.1014066).
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/YourFeature)
+3. Make your changes
+4. Commit your changes (git commit -m 'Add some feature')
+5. Push to the branch (git push origin feature/YourFeature)
+6. Open a Pull Request
+
+## Guidelines for Contributions
+- Ensure your code is well-documented.
+- Follow consistent coding styles.
+- Include tests for new features.
+- Respect the repository's code of conduct.
+
+## Contact
+For any queries or to connect, feel free to reach out:
+
+- Email: 31608csai@gmail.com
+- LinkedIn: https://leetcode.com/u/Harsh_singh27/
+
+I welcome any questions or discussions related to this project!
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+Thank you for visiting the Email-Span-filter repository! Happy coding!🎉
